@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.body-taking {
+    display: flex;
+}
+
+.body-making{
+    width: 40%;
+   
+}
+
+.body-1{
+
+    padding-top: 285px;
+    padding-left: 10%;
+}
+.body-2{
+    padding-right: 10%;
+}
+.body-skip{
+    color: orange;
+}
+.body-1 h1{
+    font-size: 55px;
+    margin-top: -37px;
+}
+.body-1 p{
+    font-size: 22px;
+}
+.body-1 a{
+    padding: 10px 15px;
+    text-decoration: none;
+background-color: orange;
+    color: white;
+}
